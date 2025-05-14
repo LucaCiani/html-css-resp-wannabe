@@ -135,8 +135,10 @@ img {
         gap: 80px;
     }
 
-    .col{
-        width: 100% !important;
+    .lessons .col ,
+    .steps .col,
+    .why-us .col{
+        width: 100%;
     }
 
     .lessons{
